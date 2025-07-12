@@ -72,8 +72,8 @@ Visual breakdown using Excel charts to assess profitability by business category
 
 | Dashboard Overview | Revenue by Product Line |
 |--------------------|-------------------------|
-| ![<img width="1364" height="571" alt="Excel Dashboard 1" src="https://github.com/user-attachments/assets/c64c825b-b6b3-4e6c-bba1-c4406fe1ef40" />
-]() | ![](screenshots/revenue-by-product-line.png) |
+| !<img width="1364" height="571" alt="Excel Dashboard 1" src="https://github.com/user-attachments/assets/c64c825b-b6b3-4e6c-bba1-c4406fe1ef40" />
+() | ![](screenshots/revenue-by-product-line.png) |
 
 ---
 
