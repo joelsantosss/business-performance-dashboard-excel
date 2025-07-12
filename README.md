@@ -1,6 +1,6 @@
 # business-performance-dashboard-excel
 
-This Excel dashboard was built as part of a data analyst bootcamp project to explore revenue, profit, and operational trends across regions, departments, and product lines.
+This Excel dashboard was built to explore revenue, profit, and operational trends across regions, departments, and product lines.
 
 ## 🔍 Project Overview
 
