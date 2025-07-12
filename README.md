@@ -68,7 +68,7 @@ The dashboard analyzes a fictional company's performance using key metrics to he
 | Dashboard Overview | Revenue by Product Line |
 |--------------------|-------------------------|
 | <img width="1364" height="571" alt="Excel Dashboard 1" src="https://github.com/user-attachments/assets/c64c825b-b6b3-4e6c-bba1-c4406fe1ef40" />
- |
+ 
 
 ---
 
